@@ -1,0 +1,3 @@
+# nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+0	5.818577406444381E8
+250000	5.818577406444381E8

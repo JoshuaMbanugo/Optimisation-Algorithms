@@ -1,0 +1,3 @@
+# nan nan nan nan nan nan nan nan nan nan
+0	6177.021885361631
+50000	6177.021885361631

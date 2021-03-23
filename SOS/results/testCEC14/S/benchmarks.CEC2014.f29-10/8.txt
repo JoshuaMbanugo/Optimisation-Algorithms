@@ -1,0 +1,3 @@
+# nan nan nan nan nan nan nan nan nan nan
+0	17741.552720021074
+50000	17741.552720021074

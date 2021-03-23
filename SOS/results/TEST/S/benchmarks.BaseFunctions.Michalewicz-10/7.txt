@@ -1,0 +1,3 @@
+# nan nan nan nan nan nan nan nan nan nan
+0	682.538752768735
+50000	619.6844034296378

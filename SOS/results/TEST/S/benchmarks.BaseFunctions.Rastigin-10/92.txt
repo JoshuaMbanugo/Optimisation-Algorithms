@@ -1,0 +1,3 @@
+# nan nan nan nan nan nan nan nan nan nan
+0	777.48541062674
+50000	708.0595758784335

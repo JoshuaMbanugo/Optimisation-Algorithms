@@ -1,0 +1,3 @@
+# nan nan nan nan nan nan nan nan nan nan
+0	80.36678026503637
+50000	68.765974533676

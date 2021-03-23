@@ -1,0 +1,3 @@
+# nan nan nan nan nan nan nan nan nan nan
+0	26452.90116950008
+50000	26452.90116950008

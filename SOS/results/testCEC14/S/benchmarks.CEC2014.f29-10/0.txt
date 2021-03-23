@@ -1,0 +1,3 @@
+# nan nan nan nan nan nan nan nan nan nan
+0	61003.79194678555
+50000	61003.79194678555

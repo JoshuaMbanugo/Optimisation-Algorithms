@@ -1,0 +1,3 @@
+# nan nan nan nan nan nan nan nan nan nan
+0	22339.58787972283
+50000	22254.686829604278

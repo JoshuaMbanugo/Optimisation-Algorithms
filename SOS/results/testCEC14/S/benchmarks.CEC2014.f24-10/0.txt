@@ -1,0 +1,3 @@
+# nan nan nan nan nan nan nan nan nan nan
+0	6106.0160367575845
+50000	6087.146041381195
